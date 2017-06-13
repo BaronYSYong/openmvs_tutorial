@@ -1,2 +1,5 @@
-# openmvs_tutorial
-OpenMVS Tutorial
+# OpenMVS Tutorial
+
+## Reference
+* http://openmvg.readthedocs.io/en/latest/
+
